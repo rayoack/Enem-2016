@@ -1,3 +1,3 @@
 # Enem-2016
-Desafios da Code:Nation \n
-Os melhores 20 colocados no Enem 2016
+Desafios da Code:Nation
+para descobrir os 20 melhores colocados no Enem 2016
