@@ -1,0 +1,18 @@
+============================= test session starts =============================
+platform win32 -- Python 3.7.0, pytest-3.8.2, py-1.6.0, pluggy-0.7.1 -- C:\Users\teste\AppData\Local\Programs\Python\Python37-32\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\teste\codenation\enem-1, inifile:
+collecting ... collected 1 item
+
+test_submit.py::test_part_1 PASSED                                       [100%]
+
+------- generated xml file: C:\Users\teste\codenation\enem-1\output.xml -------
+============================== warnings summary ===============================
+C:\Users\teste\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\rcsetup.py:20: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Iterable, Mapping
+
+C:\Users\teste\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\colors.py:53: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Sized
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+==================== 1 passed, 2 warnings in 0.52 seconds =====================
